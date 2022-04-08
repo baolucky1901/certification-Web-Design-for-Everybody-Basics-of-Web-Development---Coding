@@ -14,7 +14,7 @@
 ## SKILLS I HAVE GAINED
 
  - Web Development
- - Cascading Style Sheets (CCS)
- - Html5
+ - Cascading Style Sheets (CSS)
+ - HTML5
  - JavaScript
  - Responsive Web Design
